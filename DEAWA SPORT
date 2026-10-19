@@ -1,6 +1,5 @@
 #EXTM3U url-tvg="https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml.gz" billed-msg="⛔  SIARAN TV SPORT 2026---DEAWA CHANEL---.⛔" $BorpasFileFormat="1" $NestedGroupsSeparator="/" refresh="720"
-#EXTM3U
-#EXTM3U
+#EXTINF:-1 group-logo="" group-title="
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Bangladeshi" provider="fb:M3U_World_4K",Ananda
 https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8#fb:M3U_World_4K
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Bangladeshi" provider="fb:M3U_World_4K",Asian
